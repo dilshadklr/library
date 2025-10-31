@@ -1,6 +1,0 @@
-Django>=4.2
-gunicorn
-whitenoise
-psycopg[binary]    # for Postgres
-dj-database-url
-python-dotenv      # optional, if developing locally with .env
